@@ -1,6 +1,6 @@
 Package.describe({
   name: 'yasaricli:dump',
-  version: '0.0.1',
+  version: '0.0.2',
   summary: 'In-app Backup for your Mongo Database',
   git: 'https://github.com/yasaricli/meteor-mongo-dump.git',
   documentation: 'README.md'
